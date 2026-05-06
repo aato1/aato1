@@ -4,12 +4,11 @@
 	- Images are stored in /assets as SVG placeholders; replace with your optimized PNG/GIF/SVG files.
 	- Badges use shields.io links; swap or remove as desired.
 	- All inline notes for manual edits are inside HTML comments like <!-- REPLACE: ... -->
--->
 
 
-![Hero image](./assets/Horizontal_RGB.svg)
+![Hero image](./assets/Vertical_RGB.svg)
 
-# Adam To — Front-end Developer
+<!-- # Adam To -->
 
 _I'm a web developer with 2 years of experience who leverages an intersectional cultural background to improve communication between technical and creative teams, actualizing moving websites with accessible features for diverse audiences._
 
@@ -39,7 +38,7 @@ _I'm a web developer with 2 years of experience who leverages an intersectional 
 | **Mockup** | ![CleanTap mockup](./assets/case_mockup.svg) | ![DevilPhish mockup](./assets/case_mockup.svg) | ![Wellness mockup](./assets/case_mockup.svg) |
 | **Description** |  — REPLACE: 2–3 line impact-oriented description. |  — REPLACE: Description emphasizing outcome. | UX-focused website design — REPLACE: Design integration and outcome. |
 | **Tech** | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) | ![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) |
-| **Links** | [Live](#) · [Case Study](#) · [Repo](#) | [Case Study](#) · [Thesis Publication](#) | [Case Study](#) · [Repo](#) |
+| **Links** | [Live](https://aato1.github.io/charitywaterprototype/) · [Case Study](#) · [Repo](https://github.com/aato1/charitywaterprototype) | [Case Study](#) · [Thesis Publication](#) | [Case Study](#) · [Repo](https://github.com/aato1/obfusc_wellness) |
 
 ## More About Me!
 - **On a more personal note,** I'm always trying to learn new creative hobbies! Right now it's guitar and photography, to supplement my love of singing and hiking.
