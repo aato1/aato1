@@ -13,7 +13,11 @@
 _I'm a web developer with 2 years of experience who leverages an intersectional cultural background to improve communication between technical and creative teams, actualizing moving websites with accessible features for diverse audiences._
 
 <!-- REPLACE contact info below -->
-**Contact:** [REPLACE/OMIT?: email@example.com](mailto:REPLACE:email@example.com) · [REPLACE WITH DOMAIN: Website](https://example.com) · [REPLACE WITH DRIVE PDF?: Resume](https://example.com) · [LinkedIn](https://www.linkedin.com/in/adam-to-915569264/)
+<!-- email ommitted and resume omitted
+[REPLACE/OMIT?: email@example.com](mailto:REPLACE:email@example.com) · 
+[Resume](https://example.com) -->
+
+**Contact:** [Website](https://readymag.website/u3779265273/6321889/) · [LinkedIn](https://www.linkedin.com/in/adam-to-915569264/)
 
 ---
 
@@ -35,14 +39,16 @@ _I'm a web developer with 2 years of experience who leverages an intersectional 
 ## Featured Projects
 |  | **CleanTap**, a Responsive idle game for charity:water | **DevilPhish**, a Cybersecurity Phishing Awareness Platform | Website Development for **Upcoming Wellness** |
 |---|---|---|---|
-| **Mockup** | ![CleanTap mockup](./assets/case_mockup.svg) | ![DevilPhish mockup](./assets/case_mockup.svg) | ![Wellness mockup](./assets/case_mockup.svg) |
-| **Description** |  — REPLACE: 2–3 line impact-oriented description. |  — REPLACE: Description emphasizing outcome. | UX-focused website design — REPLACE: Design integration and outcome. |
-| **Tech** | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) | ![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) |
+| **Mockup** | <img src="./assets/cleantapmockup.png" width="420" height="270" style="object-fit: contain;"> | <img src="./assets/phishmockup.png" width="420" height="270" style="object-fit: contain;"> | <img src="./assets/wellnessmockup.png" width="420" height="270" style="object-fit: contain;"> |
+| **Description** |  A gamified experience incorporating charity:water's branding and real-world solutions to increase collegiate students' awareness and engagement. |  Combining both a reusable toolkit and efficient learning modules, this desktop phishing detection training hopes to build a more protected digital community. | A local fitness website designed to deliver business information to diverse clients. |
+| **Tech** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) ![Squarespace](https://img.shields.io/badge/Squarespace-000000?style=flat&logo=squarespace&logoColor=white) |
 | **Links** | [Live](https://aato1.github.io/charitywaterprototype/) · [Case Study](#) · [Repo](https://github.com/aato1/charitywaterprototype) | [Case Study](#) · [Thesis Publication](#) | [Case Study](#) · [Repo](https://github.com/aato1/obfusc_wellness) |
 
-## More About Me!
+## About Me
 - **On a more personal note,** I'm always trying to learn new creative hobbies! Right now it's guitar and photography, to supplement my love of singing and hiking.
--[add more here?]
+
+<!-- Thanks for visiting! -->
+<!-- -[add more here?] -->
 
 <!-- ## Most Recent
 - REPLACE: Most Recent Project Name — one-line description and link: [Link](#) -->
@@ -81,7 +87,6 @@ _I'm a web developer with 2 years of experience who leverages an intersectional 
 	- Keep images optimized: PNG/WebP for static, GIF for short animations (<= ~3MB recommended).
 -->
 
-Thanks for visiting!
 <!-- — contact: [REPLACE: email@example.com](mailto:REPLACE:email@example.com) -->
 
 <!-- Privacy & resume-hosting notes: -->
