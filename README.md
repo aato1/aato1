@@ -6,7 +6,9 @@
 	- All inline notes for manual edits are inside HTML comments like <!-- REPLACE: ... -->
 
 
-![Hero image](./assets/Vertical_RGB.svg)
+<p align="center">
+	<img src="./assets/Favicon_RGB.svg" alt="Hero image" width="500" />
+</p>
 
 <!-- # Adam To -->
 
@@ -17,7 +19,7 @@ _I'm a web developer with 2 years of experience who leverages an intersectional 
 [REPLACE/OMIT?: email@example.com](mailto:REPLACE:email@example.com) · 
 [Resume](https://example.com) -->
 
-**Contact:** [Website](https://readymag.website/u3779265273/6321889/) · [LinkedIn](https://www.linkedin.com/in/adam-to-915569264/)
+**Contact:** [Website](https://adamto.dev) · [LinkedIn](https://www.linkedin.com/in/adam-to-915569264/)
 
 ---
 
